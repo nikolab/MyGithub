@@ -1,0 +1,15 @@
+.Search {
+    padding: 24px 0;
+}
+
+.Search label {
+    margin-right: 10px;
+}
+
+.Search input {
+    border: 2px solid #00BCD4;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 200px;
+    padding: 8px;
+}

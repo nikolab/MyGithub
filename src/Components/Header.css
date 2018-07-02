@@ -1,0 +1,18 @@
+.Nav {
+    background: #cccccc;
+    padding: 10px 0;
+}
+
+.Nav-links {
+    text-align: left;
+}
+
+.Nav-links li {
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+.Nav-links li a {
+    color: #fff;
+    text-decoration: none;
+}

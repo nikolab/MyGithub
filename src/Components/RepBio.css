@@ -1,0 +1,9 @@
+.Bio-info {
+    text-align: left;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.Img-holder {
+    margin-right: 25px;
+}
